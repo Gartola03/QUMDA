@@ -1,0 +1,413 @@
+0 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:01
+ Cantidate2:10
+ Cantidate3:01
+
+1 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:11
+ Cantidate2:10
+ Cantidate3:00
+
+2 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:10
+ Cantidate2:00
+ Cantidate3:00
+
+3 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:10
+ Cantidate2:11
+ Cantidate3:11
+
+4 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:10
+ Cantidate2:10
+ Cantidate3:11
+
+5 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:11
+ Cantidate2:01
+ Cantidate3:00
+
+6 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:11
+ Cantidate2:10
+ Cantidate3:10
+
+7 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:11
+ Cantidate2:10
+ Cantidate3:00
+
+8 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:10
+ Cantidate2:10
+ Cantidate3:01
+
+9 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:10
+ Cantidate2:10
+ Cantidate3:11
+
+10 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:01
+ Cantidate2:10
+ Cantidate3:11
+
+11 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:00
+ Cantidate2:00
+ Cantidate3:11
+
+12 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:01
+ Cantidate2:01
+ Cantidate3:01
+
+13 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:01
+ Cantidate2:01
+ Cantidate3:11
+
+14 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:01
+ Cantidate2:00
+ Cantidate3:11
+
+15 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:10
+ Cantidate2:10
+ Cantidate3:00
+
+16 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:00
+ Cantidate2:01
+ Cantidate3:11
+
+17 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:01
+ Cantidate2:00
+ Cantidate3:11
+
+18 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:11
+ Cantidate2:11
+ Cantidate3:00
+
+19 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:01
+ Cantidate2:01
+ Cantidate3:00
+
+20 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:11
+ Cantidate2:11
+ Cantidate3:11
+
+21 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:10
+ Cantidate2:11
+ Cantidate3:00
+
+22 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:01
+ Cantidate2:00
+ Cantidate3:10
+
+23 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:10
+ Cantidate2:10
+ Cantidate3:11
+
+24 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:11
+ Cantidate2:00
+ Cantidate3:10
+
+25 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:00
+ Cantidate2:01
+ Cantidate3:11
+
+26 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:10
+ Cantidate2:10
+ Cantidate3:01
+
+27 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:10
+ Cantidate2:10
+ Cantidate3:01
+
+28 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:10
+ Cantidate2:01
+ Cantidate3:11
+
+29 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:11
+ Cantidate2:00
+ Cantidate3:11
+
+30 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:10
+ Cantidate2:11
+ Cantidate3:00
+
+31 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:01
+ Cantidate2:00
+ Cantidate3:00
+
+32 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:01
+ Cantidate2:00
+ Cantidate3:10
+
+33 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:01
+ Cantidate2:00
+ Cantidate3:11
+
+34 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:00
+ Cantidate2:11
+ Cantidate3:00
+
+35 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:10
+ Cantidate2:00
+ Cantidate3:01
+
+36 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:00
+ Cantidate2:00
+ Cantidate3:00
+
+37 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:01
+ Cantidate2:11
+ Cantidate3:11
+
+38 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:00
+ Cantidate2:00
+ Cantidate3:10
+
+39 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:01
+ Cantidate2:00
+ Cantidate3:00
+
+40 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:00
+ Cantidate2:00
+ Cantidate3:01
+
+41 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:00
+ Cantidate2:10
+ Cantidate3:01
+
+42 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:10
+ Cantidate2:11
+ Cantidate3:10
+
+43 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:00
+ Cantidate2:10
+ Cantidate3:00
+
+44 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:00
+ Cantidate2:00
+ Cantidate3:00
+
+45 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:00
+ Cantidate2:11
+ Cantidate3:01
+
+46 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:11
+ Cantidate2:01
+ Cantidate3:11
+
+47 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:11
+ Cantidate2:01
+ Cantidate3:01
+
+48 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:01
+ Cantidate2:11
+ Cantidate3:00
+
+49 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:00
+ Cantidate2:10
+ Cantidate3:10
+
+50 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:10
+ Cantidate2:10
+ Cantidate3:11
+
+51 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:01
+ Cantidate2:11
+ Cantidate3:11
+
+52 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:01
+ Cantidate2:01
+ Cantidate3:11
+
+53 Generations: 
+New population: 
+ Cantidate0:00
+ Cantidate1:11
+ Cantidate2:11
+ Cantidate3:10
+
+54 Generations: 
+New population: 
+ Cantidate0:10
+ Cantidate1:10
+ Cantidate2:01
+ Cantidate3:10
+
+55 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:10
+ Cantidate2:11
+ Cantidate3:00
+
+56 Generations: 
+New population: 
+ Cantidate0:01
+ Cantidate1:11
+ Cantidate2:11
+ Cantidate3:10
+
+57 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:01
+ Cantidate2:01
+ Cantidate3:01
+
+58 Generations: 
+New population: 
+ Cantidate0:11
+ Cantidate1:11
+ Cantidate2:11
+ Cantidate3:11
+

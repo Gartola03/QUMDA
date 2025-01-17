@@ -1,0 +1,42 @@
+0 Generations:
+New population:
+ Cantidate0:001111
+ Cantidate1:100110
+ Cantidate2:101011
+ Cantidate3:011011
+
+1 Generations:
+New population:
+ Cantidate0:101111
+ Cantidate1:110110
+ Cantidate2:110111
+ Cantidate3:100010
+
+2 Generations:
+New population:
+ Cantidate0:110111
+ Cantidate1:111110
+ Cantidate2:110111
+ Cantidate3:111111
+
+3 Generations:
+New population:
+ Cantidate0:111110
+ Cantidate1:111111
+ Cantidate2:111110
+ Cantidate3:111110
+
+4 Generations:
+New population:
+ Cantidate0:111111
+ Cantidate1:111111
+ Cantidate2:111111
+ Cantidate3:111110
+
+5 Generations:
+New population:
+ Cantidate0:111111
+ Cantidate1:111111
+ Cantidate2:111111
+ Cantidate3:111111
+
