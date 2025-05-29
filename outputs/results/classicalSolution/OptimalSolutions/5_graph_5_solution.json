@@ -1,0 +1,302 @@
+[
+    {
+        "cut_value": 5,
+        "partition": [
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "cut_value": 5,
+        "partition": [
+            0,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "cut_value": 5,
+        "partition": [
+            1,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "cut_value": 5,
+        "partition": [
+            1,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "cut_value": 4,
+        "partition": [
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "cut_value": 4,
+        "partition": [
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "cut_value": 4,
+        "partition": [
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "cut_value": 4,
+        "partition": [
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "cut_value": 4,
+        "partition": [
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cut_value": 4,
+        "partition": [
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            0,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            0,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            1,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            1,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            1,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "cut_value": 3,
+        "partition": [
+            1,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "cut_value": 2,
+        "partition": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "cut_value": 2,
+        "partition": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cut_value": 2,
+        "partition": [
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "cut_value": 2,
+        "partition": [
+            0,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "cut_value": 2,
+        "partition": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cut_value": 2,
+        "partition": [
+            1,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "cut_value": 2,
+        "partition": [
+            1,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "cut_value": 2,
+        "partition": [
+            1,
+            1,
+            1,
+            0,
+            1
+        ]
+    }
+]

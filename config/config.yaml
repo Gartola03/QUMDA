@@ -1,0 +1,26 @@
+# config.yaml
+
+experiment_name: "qaoa_test_suite"
+
+problem:
+  type: "MaxCut"
+
+qaoa_parameters:
+  n: 10
+  p: 1
+  initial_gamma: 0.5
+  initial_beta: 0.5
+  initial_theta: 0.5
+  initial_point: "random"
+  type: ['Normal', 'Random', 'Adaptive', 'All parameters']
+
+hardware: False
+
+noise: False
+
+classical_optimizer: "minimize"
+
+optimizer:
+  name: "COBYLA"
+  maxiter: 40
+
