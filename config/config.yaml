@@ -6,13 +6,14 @@ problem:
   type: "MaxCut"
 
 qaoa_parameters:
-  n: 10
   p: 1
   initial_gamma: 0.5
   initial_beta: 0.5
   initial_theta: 0.5
-  initial_point: "random"
-  type: ['Normal', 'Random', 'Adaptive', 'All parameters']
+
+alpha: 0.1
+
+shots: 1024
 
 hardware: False
 
@@ -22,5 +23,5 @@ classical_optimizer: "minimize"
 
 optimizer:
   name: "COBYLA"
-  maxiter: 40
+  maxiter: 30
 

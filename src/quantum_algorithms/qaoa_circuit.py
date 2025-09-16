@@ -36,27 +36,28 @@ class QAOA:
       # Apply mixing Hamiltonian (X rotation)
       qc = self._mixing_hamiltonian(qc, self.betas[i])
 
-    qc.measure_all()
     return qc
 
   def _cost_hamiltonian(self, qc, gamma):
     for term, coeff in zip(self.cost_hamiltonian.paulis, self.cost_hamiltonian.coeffs):
       pauli_str = term.to_label()
-      qubits = [i for i, p in enumerate(pauli_str) if p != 'I']
+      qubits = [i for i, p in enumerate(pauli_str[::-1]) if p != 'I']
 
       if pauli_str.count('Z') == 2:
         # Two-qubit ZZ term
         i, j = qubits
         qc.cx(i, j)
         #If max-cut, not 2
-        qc.rz(coeff.real * gamma, j)
+        qc.rz(2 * coeff.real * gamma, j)
         qc.cx(i, j)
 
       elif pauli_str.count('Z') == 1:
         # Single-qubit Z term (if present)
         i = qubits[0]
         #If max-cut, not 2
-        qc.rz(coeff.real * gamma, i)
+        qc.rz(2 * coeff.real * gamma, i)
+
+      qc.barrier()
 
     return qc
 
